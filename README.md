@@ -84,7 +84,7 @@ As part of the web tool, we included a resource page synchronized online with a 
 
 
 # What is included in the package
-CleaCPI is delivered as a package that includes:
+CleanCPI is delivered as a bundle of components that includes:
 - a CPI package with 3 different types of flows:
    - Flows that supports the tool functionality
    - Template flow for creating new flows with special testing functionality included
